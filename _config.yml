@@ -135,5 +135,5 @@ js: js
 css: css
 
 # Theme version
-beian: 
-
+version: 0.0.0
+beian:  
